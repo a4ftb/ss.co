@@ -6,39 +6,41 @@ body {
 
 h1 {
   font-family: 'Kaushan Script', cursive;
+  font-size: 50px;
 }
 p {
   font-family: 'Bad Script', cursive;
-  font-size: 14px;
+  font-size: 15px;
 
 }
 
 h2 {
   font-family: 'Permanent Marker', cursive;
+  font-size: 30px;
 
 }
 
 h3 {
   font-family: 'Poppins', sans-serif;
-  font-size: 70%;
+  font-size: 25px;
 }
 
 .top-container {
   background-color: #c3edea;
-  padding-top: 100px;
+  padding-top: 350px;
   position: relative;
 }
 
 .middle-container {
   background-color: #e8cca8;
-  width: 37%;
+  width: 70%;
   padding: 20px;
 margin: 0 auto;
 }
 
 .bottom-container {
 background-color: #ee8572;
-margin-top: 50px;
+
 padding: 30px;
 }
 
@@ -51,7 +53,7 @@ padding: 30px;
 .cloud1 {
   position: absolute;
   right:300px;
-  bottom: 400px;
+  bottom: 450px;
   height: 200px;
 }
 
@@ -61,8 +63,8 @@ padding: 30px;
   height: 200px;
 }
 .ss{
-  height: 300px;
-margin-top: 100px;
+  height: 400px;
+margin-top: 200px;
 }
 
 .cr {
